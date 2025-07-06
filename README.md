@@ -1,4 +1,4 @@
-# Hooks
+# rev-hooks
 
 Compile the hook program to a shared library, then patch the original binary to hook the functions
 

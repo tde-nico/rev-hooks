@@ -1,5 +1,19 @@
 # rev-hooks
 
+<!--
+#field
+CTF
+
+#groups
+Tool
+
+#languages
+C
+
+#frames and libs
+
+-->
+
 Compile the hook program to a shared library, then patch the original binary to hook the functions
 
 ```bash
